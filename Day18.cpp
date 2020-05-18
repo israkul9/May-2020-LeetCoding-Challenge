@@ -1,4 +1,8 @@
 
+
+// using slidding window technique 
+// https://www.youtube.com/watch?v=MPtX8pGYHCs 
+
 class Solution {
 public:
     bool checkInclusion(string patt, string original) {
